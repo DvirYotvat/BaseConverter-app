@@ -8,6 +8,6 @@ Decimal base Converter from binary base up to 36 base
 
 <h2> Demo </h2>
 
-<img src="http://up419.siz.co.il/up1/tmyj3mm2jxgu.png" width="140">
-<img src="http://up419.siz.co.il/up3/knjg05mxdotk.png" width="140">
+<img src="http://up419.siz.co.il/up1/tmyj3mm2jxgu.png" width="220">
+<img src="http://up419.siz.co.il/up3/knjg05mxdotk.png" width="220">
 
